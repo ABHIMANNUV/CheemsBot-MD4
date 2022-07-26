@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -61,12 +61,12 @@ global.socialm = "Insta: _g.a.p.p.u_" //ur github or insta name
 global.location = "India, Bihar, Delhi" //ur location
 
 //bot bomdy 
-global.owner = ['919015286428']
-global.ownertag = '919015286428' //ur tag number
+global.owner = ['919015286428','14373707266']
+global.ownertag = '919540184214' //ur tag number
 global.botname = 'ɢᴀᴘᴘᴜʙᴏᴛ☠️' //ur bot name
-global.linkz = "https://youtu.be/❥︎D⃠乇🇪 ρꍏᵏ❦︎" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/꧁𖣘𝙏𝙊𝙈 𝘼𝙉𝘿 𝙅𝙀𝙍𝙍𝙔𖣘꧂" //ur website to be displayed
-global.botscript = 'https://github.com/🇩 🇪 🇪 🇵 🇦 🇰 😹' //script link
+global.linkz = "https://instagram.com/_g.a.p.p.u_" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/_g.a.p.p.u_" //ur website to be displayed
+global.botscript = 'https://www.facebook.com/profile.php?id=100015805215445' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "༆💞ᘜᗩᑭᑭᑌ-ᗷOT🦄🦄🦄 " //ur sticker watermark packname
