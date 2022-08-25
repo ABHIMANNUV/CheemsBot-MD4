@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['919015286428'] //ur owner number
-global.ownername = "🦄❥︎❀𝐃𝐄𝐄𝐏𝐀𝐊シ︎👻" //ur owner name
+global.vcardowner = ['918447595871'] //ur owner number
+global.ownername = "🦄❥︎❀MANNUシ︎👻" //ur owner name
 global.ytname = "YT: X" //ur yt chanel name
 global.socialm = "Insta: _g.a.p.p.u_" //ur github or insta name
 global.location = "India, Bihar, Delhi" //ur location
 
 //bot bomdy 
-global.owner = ['919015286428','14373707266']
-global.ownertag = '919540184214' //ur tag number
-global.botname = 'ɢᴀᴘᴘᴜʙᴏᴛ☠️' //ur bot name
+global.owner = ['918447595871']
+global.ownertag = '918447595871' //ur tag number
+global.botname = 'AJʙᴏᴛ☠️' //ur bot name
 global.linkz = "https://instagram.com/_g.a.p.p.u_" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/_g.a.p.p.u_" //ur website to be displayed
 global.botscript = 'https://www.facebook.com/profile.php?id=100015805215445' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "༆💞ᘜᗩᑭᑭᑌ-ᗷOT🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🔥🦄𝐃𝐄𝐄𝐏𝐀𝐊❤️‍🔥💫" //ur sticker watermark author
+global.packname = "༆💞AJ-ᗷOT🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🔥🦄MANNU❤️‍🔥💫" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['919015286428'] //ur premium numbers
+global.premium = ['918447595871'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
