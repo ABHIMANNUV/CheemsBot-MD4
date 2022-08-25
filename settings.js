@@ -55,18 +55,18 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['918447595871'] //ur owner number
-global.ownername = "🦄❥︎❀MANNUシ︎👻" //ur owner name
-global.ytname = "YT: X" //ur yt chanel name
-global.socialm = "Insta: _g.a.p.p.u_" //ur github or insta name
+global.ownername = "🦄❥︎❀AJ FRIENDS HEARTシ︎👻" //ur owner name
+global.ytname = "YT: Heartbeat AJ" //ur yt chanel name
+global.socialm = "Insta: mannusingh8555" //ur github or insta name
 global.location = "India, Bihar, Delhi" //ur location
 
 //bot bomdy 
-global.owner = ['918447595871']
+global.owner = ['918447595871','12342186923']
 global.ownertag = '918447595871' //ur tag number
 global.botname = 'AJʙᴏᴛ☠️' //ur bot name
-global.linkz = "https://instagram.com/_g.a.p.p.u_" //your theme url which will be displayed on whatsapp
-global.websitex = "https://instagram.com/_g.a.p.p.u_" //ur website to be displayed
-global.botscript = 'https://www.facebook.com/profile.php?id=100015805215445' //script link
+global.linkz = "https://youtube.com/channel/UC40tweWNrkzb9mNOQUWIJjg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.facebook.com/Mannu-Singh-110896721603264/" //ur website to be displayed
+global.botscript = 'https://youtu.be/yzKxjhRUY7Q' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "༆💞AJ-ᗷOT🦄🦄🦄 " //ur sticker watermark packname
