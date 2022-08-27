@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['918447595871'] //ur owner number
-global.ownername = "🦄❥︎❀AJ FRIENDS HEARTシ︎👻" //ur owner name
-global.ytname = "YT: Heartbeat AJ" //ur yt chanel name
-global.socialm = "Insta: mannusingh8555" //ur github or insta name
+global.ownername = "🦄❥︎❀𝐀𝐉 ❤️ 𝐈𝐒 𝐘𝐎𝐔𝐑 𝐇𝐄𝐀𝐑𝐓💓𝐁𝐄𝐀𝐓シ︎👻❥︎🦄" //ur owner name
+global.ytname = "YT: 𝐇𝐄𝐀𝐑𝐓𝐁𝐄𝐀𝐓 𝐀𝐉" //ur yt chanel name
+global.socialm = "Insta: 𝐌𝐀𝐍𝐍𝐔𝐒𝐈𝐍𝐆𝐇8555" //ur github or insta name
 global.location = "India, Bihar, Delhi" //ur location
 
 //bot bomdy 
 global.owner = ['918447595871','12342186923']
 global.ownertag = '918447595871' //ur tag number
-global.botname = 'AJʙᴏᴛ☠️' //ur bot name
+global.botname = 'ᴀᴊʙᴏᴛ☠️' //ur bot name
 global.linkz = "https://youtube.com/channel/UC40tweWNrkzb9mNOQUWIJjg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.facebook.com/Mannu-Singh-110896721603264/" //ur website to be displayed
 global.botscript = 'https://youtu.be/yzKxjhRUY7Q' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "༆💞AJ-ᗷOT🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🔥🦄MANNU❤️‍🔥💫" //ur sticker watermark author
+global.packname = "༆ఌ︎ꨄ︎♥❥︎💞𝐀𝐉-ᗷ𝗼𝐓🦄🦄🦄❥︎ఌ︎༆" //ur sticker watermark packname
+global.author = "🔥🦄𝐌𝐀𝐍𝐍𝐔❤️‍🔥💫" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
