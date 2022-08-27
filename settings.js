@@ -62,7 +62,7 @@ global.location = "India, Bihar, Delhi" //ur location
 
 //bot bomdy 
 global.owner = ['918447595871','12342186923']
-global.ownertag = '918447595871' //ur tag number
+global.ownertag = '12342186923' //ur tag number
 global.botname = 'ᴀᴊʙᴏᴛ☠️' //ur bot name
 global.linkz = "https://youtube.com/channel/UC40tweWNrkzb9mNOQUWIJjg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.facebook.com/Mannu-Singh-110896721603264/" //ur website to be displayed
