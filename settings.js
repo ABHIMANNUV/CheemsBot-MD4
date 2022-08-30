@@ -69,7 +69,7 @@ global.websitex = "https://www.facebook.com/Mannu-Singh-110896721603264/" //ur w
 global.botscript = 'https://youtu.be/yzKxjhRUY7Q' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "༆ఌ︎ꨄ︎♥❥︎💞𝐀𝐉-ᗷ𝗼𝐓🦄🦄🦄❥︎ఌ︎༆" //ur sticker watermark packname
+global.packname = "༆ఌ︎♥💞𝐀𝐉-ᗷ𝗼𝐓🦄🦄🦄❥︎ఌ︎༆" //ur sticker watermark packname
 global.author = "🔥🦄𝐌𝐀𝐍𝐍𝐔❤️‍🔥💫" //ur sticker watermark author
 
 //Bot theme media
