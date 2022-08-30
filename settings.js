@@ -112,7 +112,7 @@ global.mess = {
     group: 'Feature Used Only For 😂 Groups!',
     private: 'Features Used Only For 🥵 Private Chat!',
     bot: 'This Feature Is Only For 😜 Bot',
-    wait: 'Gappu-Bot in process...✨🌸',
+    wait: 'AJ-Bot in process...✨🌸',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
